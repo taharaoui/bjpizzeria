@@ -62,7 +62,7 @@ body {
   line-height: 1.5;
   color: #212529;
   text-align: left;
-  overflow-y: auto; 
+  overflow-y: scroll; 
   background-color: #fff; }
 
   body, html {
