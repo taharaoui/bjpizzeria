@@ -64,6 +64,11 @@ body {
   text-align: left;
   overflow-y: auto; 
   background-color: #fff; }
+
+  body, html {
+    min-height: 100%;
+  }
+  
   
 
 [tabindex="-1"]:focus {
